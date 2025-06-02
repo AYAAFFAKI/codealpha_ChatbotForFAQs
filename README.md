@@ -10,7 +10,6 @@
 - 🧠 Accepts questions phrased differently from the original ones
 - 🌿 Informative responses based on a handcrafted FAQ database
 - 📦 Uses Python with `NLTK` for preprocessing and `NumPy` for similarity matching
-
 ---
 
 ## 📦 Requirements
