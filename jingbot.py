@@ -1,6 +1,7 @@
 import nltk
 import numpy as np
 from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from string import punctuation
 
